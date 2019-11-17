@@ -94,12 +94,8 @@ $$
 
 하지만 무작위화가 불가능하다면 무엇이 우리를 구원해줄 수 있을까?
 
-:feet:
-:feet:
-:feet:
-:feet:
-:feet:Jun Sok Huhh | :house:[lostineonomics.com](http://lostineconomics.com)
-
+:house:[lostineonomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzgyMzQ3NzNdfQ==
+eyJoaXN0b3J5IjpbLTE2MzAyMjI4NzksLTEwNzgyMzQ3NzNdfQ
+==
 -->
